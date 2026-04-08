@@ -96,8 +96,6 @@ objects:
           - MCT4631
           - MCT3691F3RN
           - MCT4597F3
-          - SER0496
-          - SER0497
           - ESA0016
           - MCT4755F3
           - MCT4212F3
@@ -245,6 +243,22 @@ objects:
           - MCT4714F5
           - MCT4166F3
           - MCT3993F3
+          - MCT4992
+          - MCT4993
+          - MCT4994
+          - MCT4995
+          - MCT4996
+          - MCT4997
+          - MCT4998
+          - MCT4999
+          - MCT5000
+          - MCT5001
+          - MCT5026
+          - MCT5134
+          - MCT5135
+          - MCT5196
+          - SER0496
+          - SER0497
       
       - name: cost_management
         use_valid_org_id: true
