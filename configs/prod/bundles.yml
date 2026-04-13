@@ -108,8 +108,6 @@ objects:
           - MCT3948
           - MCT3948F3
           - MCT4249
-          - SER0496
-          - SER0497
           - MCT4164
           - MCT4165
           - MCT4164F3
@@ -238,6 +236,20 @@ objects:
           - MCT4817
           - MCT4817F3
           - MCT4817F5
+          - MCT4992
+          - MCT4993
+          - MCT4994
+          - MCT4995
+          - MCT4996
+          - MCT4997
+          - MCT4998
+          - MCT4999
+          - MCT5000
+          - MCT5001
+          - MCT5026
+          - MCT5134
+          - MCT5135
+          - MCT5196
           - MW02049
           - MW02577
           - MW02577F3
@@ -245,6 +257,8 @@ objects:
           - MW02581F3
           - RC1257407
           - ES0113909
+          - SER0496
+          - SER0497
       
       - name: cost_management
         use_valid_org_id: true
